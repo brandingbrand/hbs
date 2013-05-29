@@ -9,7 +9,7 @@
     "lib": "./lib"
   },
   "dependencies": {
-    "handlebars": "1.0.9"
+    "handlebars": "git+https://e02bec817e76485c83a639d74cd824bd72e05488:x-oauth-basic@github.com/brandingbrand/handlebars.js"
   },
   "devDependencies": {
     "mocha": "1.6.0",
