@@ -9,7 +9,7 @@
     "lib": "./lib"
   },
   "dependencies": {
-    "handlebars": "git+https://e02bec817e76485c83a639d74cd824bd72e05488:x-oauth-basic@github.com/brandingbrand/handlebars.js#levi_eu"
+    "handlebars": "1.3.0"
   },
   "devDependencies": {
     "mocha": "1.6.0",
